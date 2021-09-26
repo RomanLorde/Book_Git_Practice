@@ -1,0 +1,9 @@
+This is first page of chapter one
+
+this is our book
+
+whole name: page1.txt
+
+Create a new project
+Crerate a new pacjege called chapter_1
+Create a new file called page1
