@@ -4,4 +4,4 @@ our second file
 
 now we have git enabled
 
-edited my page 2
+edited my page 2 of chap.. 1
